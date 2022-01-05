@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3장_FloatintPoint_58page", "3장_FloatintPoint_58page\3장_FloatintPoint_58page.csproj", "{2931CDFC-28B4-4B76-950E-0121DA8F1649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2931CDFC-28B4-4B76-950E-0121DA8F1649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2931CDFC-28B4-4B76-950E-0121DA8F1649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2931CDFC-28B4-4B76-950E-0121DA8F1649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2931CDFC-28B4-4B76-950E-0121DA8F1649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23622B8A-DA13-4791-BA17-D7D0106813FF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3장_UsingVar_89page", "3장_UsingVar_89page\3장_UsingVar_89page.csproj", "{4C36FA3D-C9BF-4A33-A7D9-7C72ED3D97FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C36FA3D-C9BF-4A33-A7D9-7C72ED3D97FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C36FA3D-C9BF-4A33-A7D9-7C72ED3D97FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C36FA3D-C9BF-4A33-A7D9-7C72ED3D97FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C36FA3D-C9BF-4A33-A7D9-7C72ED3D97FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28A6882D-218E-482A-8F7B-55704A758DA3}
+	EndGlobalSection
+EndGlobal
