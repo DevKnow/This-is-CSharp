@@ -3,7 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_12장_UsingCallback_462page</RootNamespace>
+    <RootNamespace>_13장_Delegate_459page</RootNamespace>
+    <AssemblyName>13장_Delegate_459page</AssemblyName>
   </PropertyGroup>
 
 </Project>

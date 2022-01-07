@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _12장_GenericDelegate_466page
+namespace _13장_GenericDelegate_466page
 {
     delegate int Compare<T>(T a, T b);
 

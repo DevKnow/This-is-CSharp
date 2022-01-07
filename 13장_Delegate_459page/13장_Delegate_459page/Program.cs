@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _12장_Delegate_459page
+namespace _13장_Delegate_459page
 {
     class Program
     {

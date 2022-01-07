@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _12장_UsingCallback_462page
+namespace _13장_UsingCallback_462page
 {
     delegate int Compare(int a, int b);
 
@@ -54,6 +54,8 @@ namespace _12장_UsingCallback_462page
 
             for (int i = 0; i < arr.Length; i++)
                 Console.Write($"{arr[i]} ");
+
+            Console.WriteLine();
 
             int[] arr2 = { 7, 2, 8, 10, 11 };
             Console.WriteLine("Sorting descending...");
