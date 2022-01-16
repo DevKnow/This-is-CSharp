@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20장_FormAndControl_725page", "20장_FormAndControl_725page\20장_FormAndControl_725page.csproj", "{197B5D99-BC63-45C2-B0E4-B50156CF9058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{197B5D99-BC63-45C2-B0E4-B50156CF9058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197B5D99-BC63-45C2-B0E4-B50156CF9058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197B5D99-BC63-45C2-B0E4-B50156CF9058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197B5D99-BC63-45C2-B0E4-B50156CF9058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38C00008-C29D-4D6A-926E-5847364E7C91}
+	EndGlobalSection
+EndGlobal
