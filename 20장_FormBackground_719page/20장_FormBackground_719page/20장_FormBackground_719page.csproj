@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+	  <UseWindowsForms>true</UseWindowsForms>
+	  <DisableWinExeOutputInference>true</DisableWinExeOutputInference>
+    <RootNamespace>_20장_FormBackground_719page</RootNamespace>
+  </PropertyGroup>
+
+</Project>
